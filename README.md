@@ -2,7 +2,16 @@
 
 # ABSTRACT
   The project is to build a Placement & Tracking System in which there are three modules\
-      -Placement Office(Admin)\
-      *Recruiter\
-      +Student\
+      1. Placement Officer(Admin)\
+      2. Recruiter\
+      3. Student\
+  Admin has to add/delete the students and recruiters,Recruiter will add the jobs and delete the jobs and student will apply the jobs.
+  
+# Tools Used
+  
+  The project is developed in Spring Boot with help of microservices.\
+  **Front End** - JSP\
+  **Back End** - MySQL\
+  
+ 
   
