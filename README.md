@@ -2,9 +2,9 @@
 
 # ABSTRACT
   The project is to build a Placement & Tracking System in which there are three modules\
-      1. Placement Officer(Admin)\
-      2. Recruiter\
-      3. Student\
+      - Placement Officer(Admin)\
+      Recruiter\
+      Student\
   Admin has to add/delete the students and recruiters,Recruiter will add the jobs and delete the jobs and student will apply the jobs.
   
 # Tools Used
